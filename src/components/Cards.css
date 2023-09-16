@@ -1,0 +1,32 @@
+.Container_card {
+  display: flex;
+  flex-direction: column;
+  width: 20rem;
+  height: 21rem;
+  align-items: center;
+  border-radius: 0.5rem;
+  border: 1px solid #e39f0b;
+  overflow: hidden;
+}
+
+.container_text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+img{
+    border-radius: 15px;
+}
+
+button {
+  background: #e39f0b;
+  margin-top: 1rem;
+  width: 8rem;
+  height: 1.5rem;
+}
+
+button:hover{
+    background-color: #ffb921;
+}

@@ -1,0 +1,27 @@
+.header{
+    background: #E39F0B;
+    box-shadow: 2px 4px 4px 0px rgba(173, 173, 173, 0.25);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 2rem;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+   margin-right: 8rem;
+    
+}
+
+li{
+    margin: 0  2rem;
+    font-size: 0.8rem;
+}
+
+.header_carrinho{
+    display: flex;
+    align-items: center;
+    text-align: end;
+    
+}
